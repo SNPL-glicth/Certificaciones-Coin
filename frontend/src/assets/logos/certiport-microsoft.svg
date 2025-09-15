@@ -1,0 +1,24 @@
+<svg viewBox="0 0 240 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo blanco con borde -->
+  <rect x="0" y="0" width="240" height="60" fill="white" stroke="#E5E7EB" stroke-width="1" rx="5"/>
+  
+  <!-- Microsoft squares icon -->
+  <g transform="translate(15, 15)">
+    <rect x="0" y="0" width="13" height="13" fill="#F35325"/>
+    <rect x="15" y="0" width="13" height="13" fill="#81BC06"/>
+    <rect x="0" y="15" width="13" height="13" fill="#05A6F0"/>
+    <rect x="15" y="15" width="13" height="13" fill="#FFBA08"/>
+  </g>
+  
+  <!-- Texto Certiport -->
+  <text x="65" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#0078D4">CERTIPORT</text>
+  <text x="65" y="42" font-family="Arial, sans-serif" font-size="10" fill="#666">Microsoft Partner</text>
+  
+  <!-- Línea separadora -->
+  <line x1="45" y1="12" x2="45" y2="48" stroke="#E5E7EB" stroke-width="1"/>
+  
+  <!-- Badge de certificación -->
+  <circle cx="210" cy="30" r="15" fill="#00BCF2" opacity="0.1"/>
+  <circle cx="210" cy="30" r="8" fill="#00BCF2"/>
+  <text x="210" y="34" font-family="Arial" font-size="10" font-weight="bold" text-anchor="middle" fill="white">✓</text>
+</svg>

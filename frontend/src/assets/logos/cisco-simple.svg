@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <rect width="200" height="50" fill="#1BA0D7" rx="5"/>
+  <g transform="translate(10, 10)">
+    <!-- Cisco bridge icon simplificado -->
+    <rect x="0" y="12" width="4" height="6" fill="white" rx="1"/>
+    <rect x="6" y="8" width="4" height="14" fill="white" rx="1"/>
+    <rect x="12" y="4" width="4" height="22" fill="white" rx="1"/>
+    <rect x="18" y="8" width="4" height="14" fill="white" rx="1"/>
+    <rect x="24" y="12" width="4" height="6" fill="white" rx="1"/>
+  </g>
+  <text x="45" y="32" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white">cisco</text>
+</svg>

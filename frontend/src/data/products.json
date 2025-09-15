@@ -1,0 +1,178 @@
+[
+  {
+    "id": "scrum-master",
+    "title": "Scrum Master Professional",
+    "vendor": "CertiProf",
+    "description": "Roles, artefactos y eventos. Incluye voucher de examen.",
+    "price": 390000,
+    "category": "Agile",
+    "featured": true,
+    "hero": "a",
+    "imageUrl": "/src/assets/banners/scrum-master-real.jpg"
+  },
+  {
+    "id": "itil4-foundation",
+    "title": "ITIL® 4 Foundation",
+    "vendor": "AXELOS / PeopleCert",
+    "description": "Gestión de servicios de TI enfocada en valor.",
+    "price": 680000,
+    "category": "IT Service",
+    "featured": true,
+    "hero": "b",
+    "imageUrl": "/src/assets/banners/itil-foundation-real.jpg"
+  },
+  {
+    "id": "iso27001-lead-auditor",
+    "title": "ISO 27001 Lead Auditor",
+    "vendor": "ETC Iberoamericana",
+    "description": "Auditor líder en Sistemas de Gestión de Seguridad de la Información ISO 27001:2022.",
+    "price": 920000,
+    "category": "Security",
+    "featured": true,
+    "hero": "c",
+    "imageUrl": "/src/assets/banners/iso27001-real.jpg"
+  },
+  {
+    "id": "aws-cloud-practitioner",
+    "title": "AWS Cloud Practitioner",
+    "vendor": "Amazon Web Services",
+    "description": "Fundamentos de la nube y mejores prácticas.",
+    "price": 550000,
+    "category": "Cloud",
+    "featured": false,
+    "hero": "a",
+    "imageUrl": "https://source.unsplash.com/1600x900/?aws,cloud,devops"
+  },
+  {
+    "id": "azure-az900",
+    "title": "Azure Fundamentals (AZ-900)",
+    "vendor": "Microsoft",
+    "description": "Conceptos básicos de Azure y seguridad.",
+    "price": 520000,
+    "category": "Cloud",
+    "featured": false,
+    "hero": "b",
+    "imageUrl": "https://source.unsplash.com/1600x900/?azure,cloud,microsoft"
+  },
+  {
+    "id": "oracle-ocp-java",
+    "title": "Oracle Certified Professional: Java",
+    "vendor": "Oracle",
+    "description": "Dominio de Java SE para desarrolladores.",
+    "price": 890000,
+    "category": "Developer",
+    "featured": false,
+    "hero": "c",
+    "imageUrl": "https://source.unsplash.com/1600x900/?java,code,developer"
+  },
+  {
+    "id": "mos-specialist",
+    "title": "Microsoft Office Specialist (MOS)",
+    "vendor": "Certiport",
+    "description": "Valida el dominio de las aplicaciones de Microsoft Office.",
+    "price": 450000,
+    "category": "Productivity",
+    "featured": false,
+    "hero": "a",
+    "imageUrl": "https://source.unsplash.com/1600x900/?microsoft,office,productivity"
+  },
+  {
+    "id": "mce-educator",
+    "title": "Microsoft Certified Educator (MCE)",
+    "vendor": "Certiport",
+    "description": "Acredita la capacidad de integrar la tecnología en la enseñanza.",
+    "price": 600000,
+    "category": "Education",
+    "featured": false,
+    "hero": "b",
+    "imageUrl": "https://source.unsplash.com/1600x900/?education,technology,teacher"
+  },
+  {
+    "id": "mcf-fundamentals",
+    "title": "Microsoft Certified Fundamentals",
+    "vendor": "Certiport",
+    "description": "Cubren conocimientos básicos en áreas como Azure, Power Platform y Dynamics 365.",
+    "price": 500000,
+    "category": "Cloud",
+    "featured": false,
+    "hero": "c",
+    "imageUrl": "https://source.unsplash.com/1600x900/?microsoft,fundamentals,azure"
+  },
+  {
+    "id": "acp-professional",
+    "title": "Adobe Certified Professional (ACP)",
+    "vendor": "Certiport",
+    "description": "Demuestra competencia en el software de diseño gráfico y multimedia de Adobe.",
+    "price": 550000,
+    "category": "Design",
+    "featured": false,
+    "hero": "a",
+    "imageUrl": "https://source.unsplash.com/1600x900/?adobe,design,photoshop"
+  },
+  {
+    "id": "acu-user",
+    "title": "Autodesk Certified User (ACU)",
+    "vendor": "Certiport",
+    "description": "Valida las habilidades en el software de diseño de Autodesk.",
+    "price": 580000,
+    "category": "Design",
+    "featured": false,
+    "hero": "b",
+    "imageUrl": "https://source.unsplash.com/1600x900/?autodesk,cad,3d"
+  },
+  {
+    "id": "ic3-literacy",
+    "title": "IC3 Digital Literacy",
+    "vendor": "Certiport",
+    "description": "Certifica la alfabetización y competencia digital.",
+    "price": 350000,
+    "category": "Digital Skills",
+    "featured": false,
+    "hero": "c",
+    "imageUrl": "https://source.unsplash.com/1600x900/?digital,literacy,computer"
+  },
+  {
+    "id": "swift-development",
+    "title": "App Development with Swift",
+    "vendor": "Certiport",
+    "description": "Valida las habilidades para desarrollar aplicaciones con el lenguaje de programación Swift de Apple.",
+    "price": 750000,
+    "category": "Developer",
+    "featured": false,
+    "hero": "a",
+    "imageUrl": "https://source.unsplash.com/1600x900/?swift,apple,developer"
+  },
+  {
+    "id": "cisco-support",
+    "title": "Cisco Certified Support Technician",
+    "vendor": "Certiport",
+    "description": "Certificación de nivel de entrada para soporte técnico de Cisco.",
+    "price": 480000,
+    "category": "IT Support",
+    "featured": false,
+    "hero": "b",
+    "imageUrl": "https://source.unsplash.com/1600x900/?cisco,network,support"
+  },
+  {
+    "id": "quickbooks-user",
+    "title": "Intuit QuickBooks Certified User",
+    "vendor": "Certiport",
+    "description": "Acredita el conocimiento del software de contabilidad QuickBooks.",
+    "price": 400000,
+    "category": "Business",
+    "featured": false,
+    "hero": "c",
+    "imageUrl": "https://source.unsplash.com/1600x900/?quickbooks,accounting,business"
+  },
+  {
+    "id": "meta-certification",
+    "title": "Meta Certification",
+    "vendor": "Certiport",
+    "description": "Valida habilidades en el manejo de herramientas y plataformas de redes sociales y marketing digital.",
+    "price": 520000,
+    "category": "Marketing",
+    "featured": false,
+    "hero": "a",
+    "imageUrl": "https://source.unsplash.com/1600x900/?meta,facebook,marketing"
+  }
+]
